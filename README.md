@@ -1,2 +1,2 @@
 # CMoney-Advance
-Contains all leet code, coursework exercises and projects.
+Contains all coursework exercises and projects.
